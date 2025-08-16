@@ -11,5 +11,7 @@ public class GrowShit implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+        ModItems.registerModItems();
+
 	}
 }
