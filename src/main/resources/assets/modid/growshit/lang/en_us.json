@@ -1,4 +1,6 @@
 {
   "item.growshit.uncured_bud": "Uncured Bud",
-  "item.growshit.cured_bud": "Cured Bud"
+  "item.growshit.bud": "Bud",
+
+  "itemGroup.growshit.bud": "Buds"
 }

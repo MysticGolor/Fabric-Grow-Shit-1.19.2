@@ -22,7 +22,7 @@
       "net.mystic.growshit.GrowShit"
     ],
     "client": [
-      "net.mystic.growshit.GrowModClient"
+      "net.mystic.growshit.GrowShitClient"
     ]
   },
   "mixins": [
